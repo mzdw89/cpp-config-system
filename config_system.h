@@ -3,12 +3,6 @@
 #include <fstream>
 #include <vector>
 
-/*
-	TODO:
-	-Add reading functionality (parsing)
-	-Throw exception on error
-*/
-
 namespace forceinline {
 	class element {
 	public:
