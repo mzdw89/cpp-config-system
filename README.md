@@ -1,6 +1,10 @@
 # cpp-config-system
 
-A wrapper for creating configs for your applications.
+A simple to learn wrapper for creating configs for your applications.
+
+## Prerequisites
+
+None. Just include the files in your project, look up how to use it and you're ready to go!
 
 ## Notes
 
