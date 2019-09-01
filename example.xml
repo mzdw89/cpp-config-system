@@ -1,0 +1,11 @@
+<element_group name="my favourites">
+	<element_group name="consumables">
+		<element name="food">pizza</element>
+		<element name="drink">coke</element>
+	</element_group>
+</element_group>
+<element_group name="my lucky numbers">
+	<element name="most lucky">3</element>
+	<element name="pretty lucky">30.450001</element>
+</element_group>
+<element name="current day">sunday</element>
